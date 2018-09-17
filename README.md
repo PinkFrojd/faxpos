@@ -9,6 +9,8 @@ Admin can create waiter and new meal.
 
 ![faxpos_dashboard](/showcase/faxpos_dashboard.png)
 
+https://faxpos.000webhostapp.com
+
 For more go to [showcase](./showcase/) folder or watch youtube [video](https://www.youtube.com/watch?v=OXsXh9lVIV0)
 
 ## Not implemented!
