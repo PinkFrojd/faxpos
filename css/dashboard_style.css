@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:700');
+
+hr{
+    border-top-color: white;
+    border-top-width: 3px;
+}
+
+.fax-logout-align {
+    text-align: center;
+}
+
+.fax-header-font{
+  font-family: 'Lobster', cursive;
+  font-size: 36px !important;
+}
+
+.foodItem{
+    border-bottom: 1px solid white;
+    font-family: 'Roboto Slab', serif;
+    font-style: bold;
+    font-size: 18px; 
+}
+
+.cijena{
+    font-style: italic;
+    font-size: 16px;
+}
+
+.deleteItem{
+    cursor: pointer;
+}
+
+ul{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.btn-custom{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
